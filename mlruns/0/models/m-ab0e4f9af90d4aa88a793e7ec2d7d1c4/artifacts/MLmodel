@@ -1,0 +1,21 @@
+artifact_path: file:///workspaces/applied-machine-learning-foundations-3856104/mlruns/0/models/m-ab0e4f9af90d4aa88a793e7ec2d7d1c4/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.1
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 3.3.2
+model_id: m-ab0e4f9af90d4aa88a793e7ec2d7d1c4
+model_size_bytes: 14841
+model_uuid: m-ab0e4f9af90d4aa88a793e7ec2d7d1c4
+prompts: null
+utc_time_created: '2025-08-28 05:20:28.660475'
