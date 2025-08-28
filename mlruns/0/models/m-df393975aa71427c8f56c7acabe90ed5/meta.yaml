@@ -1,0 +1,10 @@
+artifact_location: file:///workspaces/applied-machine-learning-foundations-3856104/mlruns/0/models/m-df393975aa71427c8f56c7acabe90ed5/artifacts
+creation_timestamp: 1756349373328
+experiment_id: '0'
+last_updated_timestamp: 1756349385041
+model_id: m-df393975aa71427c8f56c7acabe90ed5
+model_type: null
+name: lr_pipe
+source_run_id: null
+status: 2
+status_message: null
